@@ -87,7 +87,7 @@ int simular(const std::vector<int>& sequencia);
 
 
 
-// Brenda adicionar conf. simulaçao
+// Felipe adicionar conf. simulaçao
 
 
 
@@ -157,7 +157,7 @@ void print_estado_simulacao(const std::string& log_evento, const std::vector<int
 
 
 
-// Brenda adicionar função central
+// Felipe adicionar função central
 
 
 
